@@ -1,0 +1,7 @@
+.date {
+  display: flex;
+  align-content: center;
+  gap: 4px;
+  margin: 0.8rem 0;
+  font-size: 1rem;
+}
